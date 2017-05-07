@@ -827,3 +827,5 @@ ENV/
 .ropeproject
 
 *.iml
+
+kaggle/data
