@@ -15,3 +15,7 @@
 - 3rd script should create ML model based on ideas from EDA
 - There can multiples of 2nd and 3rd script type.
 - Each preprocessing script should take a csv and create a new one, modifying only the feature variables, In this way you can use the same pre-processing script for both Training and Test cases.
+
+## Misc
+### Good Python packages
+- Tabulate : [SO](http://stackoverflow.com/questions/18528533/pretty-print-pandas-dataframe)
