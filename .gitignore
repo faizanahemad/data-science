@@ -829,3 +829,8 @@ ENV/
 *.iml
 
 kaggle/data
+analytics-vidhya/data/
+*.csv
+*.h5
+*.zip
+*.gz
