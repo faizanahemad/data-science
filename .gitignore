@@ -834,3 +834,5 @@ analytics-vidhya/data/
 *.h5
 *.zip
 *.gz
+*.ipynb_checkpoints
+*.ipynb_checkpoints/
