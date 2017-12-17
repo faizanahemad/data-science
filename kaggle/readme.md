@@ -1,4 +1,7 @@
 ### Data Source Location
+
+#### Old process for : safe-driver, sherbank-housing, titanic
+
 - For Kaggle projects create a sub-dir under kaggle folder called `data`
 - Next download the data of the project you are working on 
 - Now create a folder inside data with the same name as the project folder name under kaggle directory
@@ -6,6 +9,10 @@
 - For example there is a `sherbank-housing` dir under kaggle so all data for this competition should be inside `data/sherbank-housing`
 - For results create a sub-dir data/<project-name>/results
 - For each result file name the csv as ipynb notebook name + .csv
+
+#### New Process
+- Create a subdir `data` under project folder
+- For results create a subdir `results` under the project folder
 
 ## Project Structure and guidelines
 ### Structure
@@ -19,3 +26,4 @@
 ## Misc
 ### Good Python packages
 - Tabulate : [SO](http://stackoverflow.com/questions/18528533/pretty-print-pandas-dataframe)
+- [MissingNo: Visualize missing data patterns](https://github.com/ResidentMario/missingno)
