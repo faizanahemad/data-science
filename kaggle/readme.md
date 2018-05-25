@@ -14,6 +14,11 @@
 - Create a subdir `data` under project folder
 - For results create a subdir `results` under the project folder
 
+#### Downloading data under new process
+- Install kaggle api `pip install kaggle`
+- Under the `competition/data` dir run `kaggle competitions download -c <competition-name> -w -q`
+- For unzippin .zip files run in `competition/data` dir `unzip \*.zip`
+
 ## Project Structure and guidelines
 ### Structure
 - Each kaggle project should have 3 sub-categories of scripts
