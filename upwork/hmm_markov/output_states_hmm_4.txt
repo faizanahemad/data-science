@@ -1,0 +1,54 @@
+
+eans and vars of each hidden state
+0th hidden state
+mean = [50.00092407]
+var = [1.43582453e-05]
+std = [0.00378923]
+
+1th hidden state
+mean = [49.98563002]
+var = [1.79782565e-05]
+std = [0.00424008]
+
+2th hidden state
+mean = [50.01213694]
+var = [2.43974804e-05]
+std = [0.00493938]
+
+3th hidden state
+mean = [49.99332132]
+var = [1.09197511e-05]
+std = [0.0033045]
+
+Summary Statistics of each state for HMM
+           values                      
+           median        min        max
+states                                 
+0       50.000988  49.992908  50.009029
+1       49.986237  49.974754  49.991974
+2       50.011600  50.000832  50.027149
+3       49.993240  49.985718  50.000088
+
+Mode of each state for HMM
+           values
+states           
+0       50.003246
+1       49.986317
+2       50.009132
+3       49.993774
+Kurtosis of each state for HMM
+          values
+states          
+0      -0.895109
+1       0.109138
+2      -0.569437
+3      -0.411187
+
+SignaltoNoise of each state for HMM
+              values
+states              
+0       17273.202062
+1       14846.561480
+2       11401.889104
+3       22067.184033
+
